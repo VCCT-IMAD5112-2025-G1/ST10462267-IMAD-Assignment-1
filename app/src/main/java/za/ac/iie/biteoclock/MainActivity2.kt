@@ -66,6 +66,7 @@ class MainActivity2 : AppCompatActivity() {
 
             else -> "Invalid time input"
 
+
         }
     }
 }
